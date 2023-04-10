@@ -5,7 +5,7 @@ console.log("This is javascript lesson 1");
 //variables
 let age = 25;
 
-const name = ("Fatima");
+const name = "Fatima";
 
 console.log(age+" "+name);
 
